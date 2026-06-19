@@ -13,7 +13,7 @@ A modern trading assistant built to help traders prepare better, execute with co
 
 <p align="center">
   <img src="screenshots/trades.png" width="48%">
-  <img src="screenshots/tradedetailed.png" width="48%">
+  <img src="screenshots/tradesinput.png" width="48%">
 </p>
 
 <p align="center">
