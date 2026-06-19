@@ -4,6 +4,23 @@ A modern trading assistant built to help traders prepare better, execute with co
 
 > Source code is private and not publicly available. This repository serves as a public product showcase.
 
+<h2>Application Preview</h2>
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="48%">
+  <img src="screenshots/setupvalidator.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/trades.png" width="48%">
+  <img src="screenshots/tradedetailed.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/analytics1.png" width="48%">
+  <img src="screenshots/analytics2.png" width="48%">
+</p>
+
 ## Overview
 
 Nexx Trading Journal is a full-stack trading platform designed for traders who want more than a simple journal.
